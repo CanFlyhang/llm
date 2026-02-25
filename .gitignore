@@ -1,0 +1,35 @@
+# 忽略文件和目录
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据集目录（如果数据很大）
+data/
+
+# 模型保存目录
+models/
+
+# 日志文件
+*.log
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+
+# 缓存文件
+.cache/
+
+# 临时文件
+tmp/
+temp/
