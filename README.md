@@ -211,7 +211,7 @@ print(f"困惑度: {perplexity:.2f}")
 如有问题或建议，欢迎通过以下方式联系：
 
 - **GitHub Issues**：在 [项目页面](https://github.com/CanFlyhang/llm/issues) 提交 Issue
-- **Email**：你的邮箱地址
+- **Email**：2153208034@qq.com
 
 ---
 
